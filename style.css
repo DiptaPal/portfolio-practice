@@ -1,0 +1,195 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.mission-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.mission{
+    margin-top: 250px;
+}
+h1{
+    font-size: 60px;
+}
+h1 span{
+    color: #ffad5a;
+}
+.about{
+    font-size: 30px;
+    color: rgb(146, 143, 143);
+}
+.scroll{
+    font-size: 25px;
+    color: rgb(146, 143, 143);
+}
+.link-button{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 900;
+    background-color: #ff5959;
+    color: white;
+    border-radius: 10px;
+    padding: 20px 40px;
+    display: inline-block;
+    margin: 20px 0;
+}
+.top-half-width{
+    display: flex;
+}
+.sitebar{
+    width: 5px;
+    background-color: #ff5959;
+    height: 140px;
+    border-radius: 5px;
+    margin: 70px 10px; 
+}
+.mission-header{
+    text-align: center;
+}
+.all-mission{
+    display: flex;
+    margin: 0 200px;
+}
+.mission-2022{
+    border-radius: 30px;
+    margin: 20px;
+    padding: 50px;
+}
+.m1{
+    background-color: #edf5f6;
+}
+.m2{
+    background-color: #ffeeee;
+}
+.m3{
+    background-color: #fff4d6;
+}
+.mission-2022 img{
+    width: 60%;
+}
+.mission-2022 h2{
+    font-size: 30px;
+}
+.about-mission{
+    font-size: 20px;
+    color: rgb(119, 118, 118);
+}
+.mission-body{
+    background-image: url("images/shapes/Group\ 57404.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.develop-part{
+    margin-top: 150px;
+    background-image: url("images/shapes/Group\ 57404.png");
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position: left bottom;
+}
+.developer-header{
+    font-size: 36px;
+}
+.for-bg-image{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: 60px center;
+}
+#develop-left-width{
+    width: 40%;
+    margin-right: 100px;
+    margin-left: 200px;
+}
+#develop-left-width img{
+    width: 100%;
+}
+#develop-right-width{
+    width: 60%;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.about-develop{
+    font-size: 25px;
+}
+.community{
+    margin: 200px 0px;
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-position: right 150px bottom;
+    background-size: 200px;
+}
+.community-parent{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.community-right-half{
+    width: 40%;
+    padding: 50px;
+}
+.community-left-half{
+    width: 60%;
+    padding: 50px;
+}
+.community-right-half img{
+    width: 100%;
+}
+.apps{
+    margin-bottom: 200px;
+}
+.apps-bg-1{
+    background-image: url("images/shapes/shape-3.png");
+    background-repeat: no-repeat;
+    background-position: top 50px left 300px;
+}
+.bg-last{
+    background-image: url("images/shapes/shape-3.png");
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: bottom 30px left 200px;
+}
+.apps h1{
+    text-align: center;
+}
+.app-fetures{
+    margin-top: 150px;
+    padding: 50px;
+    display: flex;
+}
+.app-fetures img{
+    width: 70%;
+    margin-left: 250px;
+}
+.half-width .apps-header{
+    text-align: left;
+}
+.apps-right{
+    margin-top: 200px;
+    width: 40%;
+}
+.apps-left{
+    width: 60%;
+    background-image: url("images/shapes/shape-3.png");
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: right bottom 300px;
+}
+
+.buttom-part{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.footer-header{
+    font-style: italic;
+}
+.footer-header span{
+    color: tomato;
+}
